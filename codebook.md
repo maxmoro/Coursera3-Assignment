@@ -1,6 +1,5 @@
 ---
-title: "Getting And Cleaning Data codebook"
-output: html_document
+title: "Getting And Cleaning Data - Codebook"
 ---
 
 This codebook is intended to describe the dataset required by the project from Coursera's "Getting and Cleaning Data" course. Please refer to the accompanying README.md file to learn how to build the file described within this codebook.

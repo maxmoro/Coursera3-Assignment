@@ -1,6 +1,5 @@
 ---
-title: "Getting And Cleaning Data README"
-output: html_document
+title: "Getting And Cleaning Data - README"
 ---
 The files in this directory correspond to the requirements for the course project in Coursera's "Getting and Cleaning Data" course
 
